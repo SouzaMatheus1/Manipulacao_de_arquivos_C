@@ -1,0 +1,72 @@
+
+Matricula..: 012
+Nome.......: ma
+Salario.....: 900.00
+
+Matricula..: 012
+Nome.......: me
+Salario.....: 999.00
+
+Matricula..: 019
+Nome.......: tiago
+Salario.....: 1001.00
+
+Matricula..: 078
+Nome.......: matheus
+Salario.....: 1000.00
+
+Matricula..: 042
+Nome.......: jonatas
+Salario.....: 1800.00
+
+Matricula..: 002
+Nome.......: ana
+Salario.....: 987.00
+
+Matricula..: 001
+Nome.......: a
+Salario.....: 0.00
+
+Matricula..: 001
+Nome.......: b
+Salario.....: 0.00
+
+Matricula..: 001
+Nome.......: c
+Salario.....: 0.00
+
+Matricula..: 004
+Nome.......: 4
+Salario.....: 4.00
+
+Matricula..: 004
+Nome.......: 4
+Salario.....: 4.00
+
+Matricula..: 004
+Nome.......: 4
+Salario.....: 4.00
+
+Matricula..: 124
+Nome.......: mat
+Salario.....: 1000.00
+
+Matricula..: 4221
+Nome.......: fer
+Salario.....: 998.00
+
+Matricula..: 124
+Nome.......: ana
+Salario.....: 2000.00
+
+Matricula..: 001
+Nome.......: a
+Salario.....: 0.00
+
+Matricula..: 002
+Nome.......: 
+Salario.....: 2.00
+
+Matricula..: 004
+Nome.......: c
+Salario.....: 40.00
